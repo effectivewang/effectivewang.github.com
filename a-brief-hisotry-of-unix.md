@@ -1,4 +1,4 @@
-# A history of unix
+# A brief history of unix
 
 ## The old age
 1937 - 1950, The computer was built to serve specific research or engineering purpose, like US Army. 
