@@ -3,9 +3,9 @@
 ## The old age
 1937 - 1950, The computer was built to serve specific research or engineering purpose, like US Army. 
 
-1950 - 1960, more and more computers were built for research & commerical purpose, to surve the purpose, computers were mainly doing batch process jobs, like [IBM's 701 Electronic Data Processing](http://www.computerhistory.org/timeline/1953/#169ebbe2ad45559efbc6eb357208a518) and IBM has procuded various machines and they were called [mainframe](https://en.wikipedia.org/wiki/Mainframe_computer)
+1950 - 1960, more and more computers were built for research & commerical purpose, to surve the purpose, computers were mainly doing batch process jobs, like [IBM's 701 Electronic Data Processing](http://www.computerhistory.org/timeline/1953/#169ebbe2ad45559efbc6eb357208a518) and IBM has procuded various machines and they were called [mainframe](https://en.wikipedia.org/wiki/Mainframe_computer).
 
-1960, [DEC](https://en.wikipedia.org/wiki/Digital_Equipment_Corporation) invented [PDP-1](http://www.computerhistory.org/pdp-1/the-machine/) as first mini-computer
+1960, [DEC](https://en.wikipedia.org/wiki/Digital_Equipment_Corporation) invented [PDP-1](http://www.computerhistory.org/pdp-1/the-machine/) as first mini-computer.
 
 The systems were designed to do time-sharing like [ITS](https://en.wikipedia.org/wiki/Incompatible_Timesharing_System), and written in assemly language, so the system can not be ported to different hardware.
 
