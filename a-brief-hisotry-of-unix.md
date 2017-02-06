@@ -12,7 +12,9 @@ The systems were designed to do time-sharing like [ITS](https://en.wikipedia.org
 
 In 1969, multics was dead, and Ken and engineeris love the model of multics, but could not find an alternative, while they were rewriting the space travel on [PDP-7](https://en.wikipedia.org/wiki/PDP-7), they built [an early version of Unix including File system, process control and IO redirection](https://www.bell-labs.com/usr/dmr/www/hist.html) and also [B Programming Language, which can support cross-platform compile](https://en.wikipedia.org/wiki/B_(programming_language)).
 
-In 1971, PDP-7 started to reach its limitations, Bell Labs bought a new PDP-11 and Ken started to port the early version of unix, but the system were written mostly in B programming language are word-oriented, so it is not easy to port to byte-oriented PDP-11, so [C Programming Language](https://www.bell-labs.com/usr/dmr/www/chist.html) was invented, and UNIX was all written in C. Since C can support cross-platform compile.
+In 1971, PDP-7 started to reach its limitations, Bell Labs bought a new PDP-11 and Ken started to port the early version of unix, but the system were written mostly in B programming language are word-oriented, so it is not easy to port to byte-oriented PDP-11, so [C Programming Language](https://www.bell-labs.com/usr/dmr/www/chist.html) was invented, and UNIX was all written in C. 
+
+Since C can support cross-platform compile, so the first operating system which can run on different hardware was invented and soon become popular.
 
 ## The morden age
 
