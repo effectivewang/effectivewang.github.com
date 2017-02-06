@@ -9,7 +9,9 @@ The systems were designed to do time-sharing like [https://en.wikipedia.org/wiki
 
 ## The early age
 1964, [http://web.mit.edu/multics-history/](MIT multics) was started to build an operating system for [https://en.wikipedia.org/wiki/GE-600_series](GE 645), multics intended to be a felxible operating system and provide an interactive programming environment, but it failed, which was pulled out by Bell labs later, enginner [https://en.wikipedia.org/wiki/Ken_Thompson](Ken Thompson) and [https://en.wikipedia.org/wiki/Dennis_Ritchie](Dennis M. Ritchie) worked in Bell Labs and worked on multics and create a game called [https://www.bell-labs.com/usr/dmr/www/spacetravel.html](Space Travel) based on it. 
+
 In 1969, multics was dead, and Ken and Dennis love the model of multics, but could not find an alternative, while they were rewriting the space travel on [https://en.wikipedia.org/wiki/PDP-7](PDP-7), they built [https://www.bell-labs.com/usr/dmr/www/hist.html](an early version of Unix including File system, process control and IO redirection) and also [https://en.wikipedia.org/wiki/B_(programming_language)](B Programming Language, which can do the cross-compier)
+
 In 1971, PDP-7 started to reach its limitations, Bell Labs bought a new PDP-11 and Ken started to port the early version of unix, but the system were written mostly in B programming language are word-oriented, so it is not easy to port to byte-oriented PDP-11, so [https://www.bell-labs.com/usr/dmr/www/chist.html](C Programming Language) was invented, and UNIX was all written in C. Since C can support cross-platform compile.
 
 ## The morden age
