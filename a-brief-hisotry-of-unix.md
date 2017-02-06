@@ -5,9 +5,7 @@
 
 1950 - 1960, more and more computers were built for research & commerical purpose, to surve the purpose, computers were mainly doing batch process jobs, like [IBM's 701 Electronic Data Processing](http://www.computerhistory.org/timeline/1953/#169ebbe2ad45559efbc6eb357208a518) and IBM has procuded various machines and they were called [mainframe](https://en.wikipedia.org/wiki/Mainframe_computer).
 
-1960, [DEC](https://en.wikipedia.org/wiki/Digital_Equipment_Corporation) invented [PDP-1](http://www.computerhistory.org/pdp-1/the-machine/) as first mini-computer.
-
-The systems were designed to do time-sharing like [ITS](https://en.wikipedia.org/wiki/Incompatible_Timesharing_System), and it was written in assemly language, so the system can not be ported to different hardware.
+1960, [DEC](https://en.wikipedia.org/wiki/Digital_Equipment_Corporation) invented [PDP-1](http://www.computerhistory.org/pdp-1/the-machine/) as first mini-computer. MIT purchased PDP-1 and invented operating system to do time-sharing like [ITS](https://en.wikipedia.org/wiki/Incompatible_Timesharing_System), and ITS was written in assemly language, so the system can not be ported to different hardware. Inventions run on ITS like Emacs, LISP are still alive today.
 
 ## The early age
 1964, [multics](http://web.mit.edu/multics-history/) was started to build an operating system for [GE 645](https://en.wikipedia.org/wiki/GE-600_series), jointly by MIT, GE and Bell Labs, multics intended to be a felxible operating system and provide an interactive programming environment, but it failed, enginner [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson) worked in Bell Labs and worked on multics and create a game called [Space Travel](https://www.bell-labs.com/usr/dmr/www/spacetravel.html) based on it. 
