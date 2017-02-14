@@ -5,4 +5,5 @@ This is yet another site regarding thoughts and notes, after years of experience
 
 ## Linux
 [a-brief-history-of-unix](./a-brief-hisotry-of-unix.md)
+[process-management-in-linux](./process-management-in-linux.md)
 
