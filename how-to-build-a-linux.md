@@ -1,1 +1,1 @@
-# How To Build a Linux
+# How to build a linux
