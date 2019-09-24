@@ -21,8 +21,10 @@ This is yet another blog to capture the engineering thoughts on the industry. It
 * [a-brief-history-of-database-admin-control]
 * [a-brief-history-of-database-engine]
 
-### Message Queue
+### Messaging
 * [a-brief-history-of-messaging]
+* [a-brief-history-of-streaming]
+* [a-brief-history-of-streaming]
 
 
 ### Storage
@@ -31,11 +33,16 @@ This is yet another blog to capture the engineering thoughts on the industry. It
 ### Workflow
 * [a-brief-history-of-business-workflows]
 
+### DevOps
+* [a-brief-history-of-dev-ops]
+
 ### Distributed Systems
 * [a-brief-history-on-capacity-planning]
 * [a-brief-history-on-measurement]
 * [a-brief-history-on-degraded-control]
 * [a-brief-history-on-decision-log]
+* [a-brief-history-on-distributed-frameworks]
+
 
 ### Intelligent Systems
 * [a-brief-history-of-artifical-intelligence]
@@ -47,6 +54,8 @@ This is yet another blog to capture the engineering thoughts on the industry. It
 * [a-brief-history-of-coding-style]
 * [a-brief-history-of-design-patterns]
 * [a-brief-history-of-design-principles]
+* [a-brief-history-of-build-systems]
+* [a-brief-history-of-source-control]
 
 
 ## Leadership
