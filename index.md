@@ -41,7 +41,9 @@ This is yet another blog to capture the engineering thoughts on the industry. It
 * [a-brief-history-of-artifical-intelligence]
 
 
-## Engineering 
+# Engineering 
+
+## Guidelines
 * [a-brief-history-of-coding-style]
 * [a-brief-history-of-design-patterns]
 * [a-brief-history-of-design-principles]
