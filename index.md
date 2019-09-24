@@ -20,10 +20,11 @@ This is yet another blog to capture the engineering thoughts on the industry. It
 * [a-brief-history-of-database-query]
 * [a-brief-history-of-database-admin-control]
 * [a-brief-history-of-database-engine]
+* [a-brief-history-of-global-consistency]
+
 
 ### Messaging
 * [a-brief-history-of-messaging]
-* [a-brief-history-of-streaming]
 * [a-brief-history-of-streaming]
 
 
